@@ -94,6 +94,14 @@ Terminal should output
 
 `Hello TypeScript`
 
+## TLDR
 
+| Command                              | What it does   
+| ------------------------------------ |-------------------------------------------------|
+| `npm install typescript --save-dev`  | Install TypeScript as dependency                | 
+| `npm install typescript --global`    | Install TypeScript as globally                  | 
+| `npx tsc`                            | compiles TypeScript files                       | 
+| `npm install ts-node --save-dev`     | package that compiles ts files and runs js files|  
+| `npx ts-node src/main.ts`            | excute ts files with ts-node                    |  
 
 
