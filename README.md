@@ -34,7 +34,7 @@ version check
 
 use the below commandline to install and create a `tsconfig.json` file
 
-npx tsconfig.json
+`npx tsconfig.json`
 
 ## Complie TypeScript to JavaScript
 
@@ -100,6 +100,7 @@ Terminal should output
 | ------------------------------------ |-------------------------------------------------|
 | `npm install typescript --save-dev`  | Install TypeScript as dependency                | 
 | `npm install typescript --global`    | Install TypeScript as globally                  | 
+| `npx tsconfig.json`                  | create tsconfig.json file                       | 
 | `npx tsc`                            | compiles TypeScript files                       | 
 | `npm install ts-node --save-dev`     | package that compiles ts files and runs js files|  
 | `npx ts-node src/main.ts`            | excute ts files with ts-node                    |  
