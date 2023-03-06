@@ -106,3 +106,12 @@ Terminal should output
 | `npx ts-node src/main.ts`            | excute ts files with ts-node                    |  
 
 
+Commands for quick setup:
+
+`npm init -y`
+
+`npm install typescript ts-node --save-dev`
+
+`npx tsconfig.json` select node.js
+
+`mkdir src dist`
